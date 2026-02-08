@@ -52,6 +52,7 @@ This project is for learning and personal use.
 
 ---
 ## 🎮 Gameplay Preview
+<img width="855" height="721" alt="Screenshot 2026-02-08 175419" src="https://github.com/user-attachments/assets/a3916bb8-a474-4efb-9fdb-11b4b8cdaacb" />
 
 <img width="1470" height="1033" alt="Screenshot 2026-02-08 175319" src="https://github.com/user-attachments/assets/b945f503-d278-42d5-996f-8c15dbe855b0" />
 
