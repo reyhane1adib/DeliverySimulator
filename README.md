@@ -49,3 +49,14 @@ The goal of this project is to improve my skills in:
 
 
 This project is for learning and personal use.
+
+---
+## 🎮 Gameplay Preview
+
+<img width="1470" height="1033" alt="Screenshot 2026-02-08 175319" src="https://github.com/user-attachments/assets/b945f503-d278-42d5-996f-8c15dbe855b0" />
+
+
+
+
+
+
